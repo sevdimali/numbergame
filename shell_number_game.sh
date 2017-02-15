@@ -4,7 +4,7 @@ chck=0
 rndnum=$((1 + RANDOM % 100))
 echo "--------Welcome to Number Game--------"
 echo "-                                    -"
-echo "- 1 ile 100 arasinda eded daxil edinz -"
+echo "- 1 ile 100 arasinda eded daxil edin -"
 echo "-                                    -"
 echo "--------------------------------------"
 while [ $chck -ne 1  ]
