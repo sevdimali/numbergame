@@ -1,6 +1,8 @@
 #!/bin/bash
-# author: Sevdimali Isayev
-# create date: 15/02/2017
+# Author: Sevdimali Isayev
+# Create date: 15/02/2017
+# Description: Purpose of the game to help new shell learners to better understand 
+#              variable declarations, if, while, user input-output and other commands.
 
 chck=0
 mycount=0
@@ -42,7 +44,7 @@ read usernum
         fi
 
         if [ $usernum -gt $rndnum ]; then
-        echo "Greate than Computer's Number"
+        echo "Greater than Computer's Number"
         fi
 
         if [ $ua_count -eq $mycount ]; then
