@@ -48,7 +48,7 @@ read usernum
         fi
 
         if [ $ua_count -eq $mycount ]; then
-        echo "You lost all of your chance, bye bye :))"
+        echo "You lost all of your chances, bye bye :))"
         chck=1
         fi
         mycount=$((mycount+1))
