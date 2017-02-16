@@ -1,2 +1,2 @@
 # numbergame
-Simple shell game
+Simple shell game to better understanding of basic linux bash scripting commands.
