@@ -36,6 +36,7 @@ echo "Number:"
 read usernum
         if [ $usernum -eq $rndnum ]; then
         echo "Congratulations!!"
+        echo "You found it within $mycount attempts."
         chck=1
         fi
 
