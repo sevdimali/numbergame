@@ -23,7 +23,7 @@ echo "-  |   |_| ||  | |  || ||_|| ||   |___            -"
 echo "-  |_______||__| |__||_|   |_||_______|           -"
 echo "---------------------------------------------------"
 echo ""
-echo "Please enter number of attempts you wish to try:"
+echo "Please enter number of attempts you wish to try::"
 read ua_count
 if [ $ua_count -le 0 ]; then
 echo "Bye Bye, You entered invalid number"
